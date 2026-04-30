@@ -99,7 +99,11 @@ Real-World Use Cases
 FeatureReal-World ApplicationTask SchedulerPlanning your daily study or work scheduleResource AllocatorDeciding which items to buy within a budget
 
  Team
-NameRoleLeetheshDeveloperAdityaDeveloperVishnuDeveloperRatnaDeveloper
+Name                   Role
+Leethesh             Developer
+Aditya               Developer
+Vishnu               Developer
+Ratna                Developer
 
  Submission
 This project was submitted to CCC as part of a coursework assignment, demonstrating practical applications of Greedy and Dynamic Programming algorithms.
